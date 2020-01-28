@@ -1,0 +1,56 @@
+h1, h2 {
+    color: purple;
+    font-size: 96px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-left: 10px;
+    text-align: center;
+    background-color: white;
+    text-shadow: 5px 5px 5px grey
+
+}
+p {
+    text-align: center;
+    font-family: helvetica;
+   
+}
+img {
+    height: 420px;
+    /* width: 320px; */ 
+}
+em {
+    text-transform: uppercase;
+    font-style: initial;
+
+}
+body {
+    background-color: lightgray;
+    background-attachment: scroll;
+}
+#first {
+    text-align: left;
+    color: #D0F8FF;
+    text-shadow: 0 0 5px #A5F1FF, 0 0 10px #A5F1FF,
+             0 0 20px #A5F1FF, 0 0 30px #A5F1FF,
+             0 0 40px #A5F1FF;
+    background-color: black;
+    font-size: 50px;
+  
+}
+/* #second{
+    text-align: right;
+} */
+.right{
+    text-align: right;
+}
+.tacos{
+    color: green;
+}
+.big {
+    font-size: 32px;
+}
+.tacos .big {
+    font-size: 48px;
+}
